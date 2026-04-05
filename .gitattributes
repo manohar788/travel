@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+git remote add origin https://github.com/yourusername/projectname.git
+git push -u origin main
